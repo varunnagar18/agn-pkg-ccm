@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <members>CCM_APAC_Compliance</members>
+    <members>CCM_APAC_EHS</members>
+    <members>CCM_APAC_H_R</members>
+    <members>CCM_Canada_Compliance</members>
+    <members>CCM_Canada_EHS</members>
+    <members>CCM_Canada_H_R</members>
+    <members>CCM_EAME_Compliance</members>
+    <members>CCM_EAME_EHS</members>
+    <members>CCM_EAME_H_R</members>
+    <members>CCM_SkinMedica_H_R_Lead</members>
+    <members>CCM_US_Business_Compliance</members>
+    <members>CCM_US_Compliance</members>
+    <members>CCM_US_Compliance_Lead</members>
+    <members>CCM_US_EHS</members>
+    <members>CCM_US_H_R_Commercial_Lead</members>
+    <members>CCM_US_H_R_Corporate_Lead</members>
+    <members>CCM_US_H_R_EVP</members>
+    <members>CCM_US_H_R_GTOPS_Lead</members>
+    <members>CCM_US_H_R_R_D_Lead</members>
+    <members>CCM_Compliance_Case_Mgmt</members>
+    <members>CCM_US_Compliance_Lead</members>
+    <members>CCM_LATAM_Compliance</members>
+    <members>CCM_LATAM_EHS</members>
+    <members>CCM_LATAM_H_R</members>
+    <members>CCM_LATAM_Compliance</members>
+    <name>Group</name>
+  </types>
+  <version>29.0</version>
+</Package>
